@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enrosek&label=Profile%20views&color=0e75b6&style=flat" alt="enrosek" /> </p>
 
-- 🔭 I’m currently working on [LMS](https://github.com/EnroseTeam/LMS)
+- 🔭 I’m currently working on [News App](https://github.com/EnRoseK/news_app)
 
-- 🌱 I’m currently learning **React Native and Mobile Development**
+- 🌱 I’m currently learning **Flutter and Mobile Development**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **enrosek95@gmail.com**
+- 📫 How to reach me **javkhlant.altankhuyag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
